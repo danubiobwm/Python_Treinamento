@@ -1,5 +1,6 @@
 '''
-Uma classe é uma estrutura que abstrai um conjunto de objetos com características similares.
+Uma classe é uma estrutura que abstrai um conjunto de objetos 
+com características similares.
 '''
 
 
